@@ -25,3 +25,7 @@ To create more than one image use -n command
 $ python create_art.py -n 3
 
 ```
+
+## Example Images
+
+![Image1](https://github.com/imrahulkant/random-image-generator/blob/main/download.png)
