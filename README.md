@@ -34,5 +34,5 @@ $ python create_art.py -n 3
 ![Image4](https://github.com/imrahulkant/random-image-generator/blob/main/download3.png)
 ![Image5](https://github.com/imrahulkant/random-image-generator/blob/main/download4.png)
 ![Image6](https://github.com/imrahulkant/random-image-generator/blob/main/image-0.png)
-![Image7](https://github.com/imrahulkant/random-image-generator/blob/main/image-1.png)
+![Image7](https://github.com/imrahulkant/random-image-generator/blob/main/download5.png)
 ![Image8](https://github.com/imrahulkant/random-image-generator/blob/main/image-2.png)
