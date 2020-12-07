@@ -26,6 +26,14 @@ $ python create_art.py -n 3
 
 ```
 
+To customize image size use --size command (default is 400) 
+*Note:* Size = hieght*weight (e.g. 2560*1600)
+
+```sh
+$ python create_art.py --size 2560
+
+```
+
 ## Example Images
 
 ![Image1](https://github.com/imrahulkant/random-image-generator/blob/main/download.png)
