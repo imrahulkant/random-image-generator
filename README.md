@@ -27,6 +27,7 @@ $ python create_art.py -n 3
 ```
 
 To customize image size use --size command (default is 400) 
+
 *Note:* Size = hieght*weight (e.g. 2560*1600)
 
 ```sh
