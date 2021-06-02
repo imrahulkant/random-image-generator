@@ -37,11 +37,11 @@ $ python create_art.py --size 2560
 
 ## Example Images
 
-![Image1](https://github.com/imrahulkant/random-image-generator/blob/main/download.png)
-![Image2](https://github.com/imrahulkant/random-image-generator/blob/main/download1.png)
-![Image3](https://github.com/imrahulkant/random-image-generator/blob/main/download2.png)
-![Image4](https://github.com/imrahulkant/random-image-generator/blob/main/download3.png)
-![Image5](https://github.com/imrahulkant/random-image-generator/blob/main/download4.png)
-![Image6](https://github.com/imrahulkant/random-image-generator/blob/main/image-0.png)
-![Image7](https://github.com/imrahulkant/random-image-generator/blob/main/download5.png)
-![Image8](https://github.com/imrahulkant/random-image-generator/blob/main/image-2.png)
+![Image1](https://github.com/imrahulkant/random-image-generator/blob/main/images/download.png)
+![Image2](https://github.com/imrahulkant/random-image-generator/blob/main/images/download1.png)
+![Image3](https://github.com/imrahulkant/random-image-generator/blob/main/images/download2.png)
+![Image4](https://github.com/imrahulkant/random-image-generator/blob/main/images/download3.png)
+![Image5](https://github.com/imrahulkant/random-image-generator/blob/main/images/download4.png)
+![Image6](https://github.com/imrahulkant/random-image-generator/blob/main/images/image-0.png)
+![Image7](https://github.com/imrahulkant/random-image-generator/blob/main/images/download5.png)
+![Image8](https://github.com/imrahulkant/random-image-generator/blob/main/images/image-2.png)
